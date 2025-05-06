@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
 
 setup(
     name="ExtraFunctions",
-    version="0.1.13042025",
+    version="0.2.06052025",
     include_package_data=True,
     python_requires='>=3.8',
     packages=find_packages(),
