@@ -1,4 +1,4 @@
-from __init__ import install
+from . import install
 try:
     import graphviz
 except ModuleNotFoundError:
